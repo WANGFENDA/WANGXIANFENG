@@ -1,4 +1,4 @@
-[boday]
+<boday>
 <img src="123456789"/>  
 <img src="12345678"/>
 <img src="1234567"/>
